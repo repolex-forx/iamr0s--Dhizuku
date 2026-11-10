@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/iamr0s/Dhizuku/commit/5fbda16acbf845f7c812fc8215e3a6fdd2a1fb0e",
       "git:hexsha": "5fbda16acbf845f7c812fc8215e3a6fdd2a1fb0e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T01:18:17.373333+00:00"
     },
     {
       "@id": "https://repolex.ai/r/iamr0s/Dhizuku/commit/d821be8f96d2637f1405d5363658cf6c110c12ee",
